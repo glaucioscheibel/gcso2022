@@ -1,2 +1,2 @@
-
-cat > Arquivo2.txt
+Olá, mundo
+Bom dia
