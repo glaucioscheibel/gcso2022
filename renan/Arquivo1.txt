@@ -1,0 +1,2 @@
+
+cat > Arquivo2.txt
