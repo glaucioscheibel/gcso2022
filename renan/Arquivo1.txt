@@ -1,0 +1,4 @@
+Olá, mundo
+Bom dia
+Olá
+Teste
